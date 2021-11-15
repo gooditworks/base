@@ -29,7 +29,7 @@
     "@typescript-eslint/eslint-plugin": "^4.33.0",
     "@typescript-eslint/parser": "^4.33.0",
     "commitizen": "^4.2.4",
-    "commitlint-plugin-function-rules": "^1.4.0",
+    "commitlint-plugin-function-rules": "^1.5.1",
     "concurrently": "^6.3.0",
     "cz-conventional-changelog": "^3.3.0",
     "enhanced-resolve": "^5.8.3",
