@@ -35,7 +35,7 @@
     "enhanced-resolve": "^5.8.3",
     "eslint": "^8.2.0",
     "eslint-config-airbnb-base": "^15.0.0",
-    "eslint-config-airbnb-typescript": "^15.0.0",
+    "eslint-config-airbnb-typescript": "^16.0.0",
     "eslint-plugin-jest": "^25.2.4",
     "jest": "^27.3.1",
     "jest-junit": "^13.0.0",
