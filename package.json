@@ -26,7 +26,7 @@
     "@commitlint/cli": "^14.1.0",
     "@commitlint/config-conventional": "^14.1.0",
     "@types/jest": "^27.0.2",
-    "@typescript-eslint/eslint-plugin": "^5.3.1",
+    "@typescript-eslint/eslint-plugin": "^5.4.0",
     "@typescript-eslint/parser": "^5.3.1",
     "commitizen": "^4.2.4",
     "commitlint-plugin-function-rules": "^1.5.1",
