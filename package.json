@@ -33,7 +33,7 @@
     "concurrently": "^6.4.0",
     "cz-conventional-changelog": "^3.3.0",
     "enhanced-resolve": "^5.8.3",
-    "eslint": "^8.4.1",
+    "eslint": "^8.5.0",
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-config-airbnb-typescript": "^16.1.0",
     "eslint-plugin-jest": "^25.3.0",
