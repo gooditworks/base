@@ -1,0 +1,29 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Vercel Dev mode",
+      "type": "node-terminal",
+      "request": "launch",
+      "command": "npm run dev:local"
+    },
+    {
+      "name": "Client Side",
+      "type": "pwa-chrome",
+      "request": "launch",
+      "url": "http://localhost:3000"
+    },
+    {
+      "name": "Full stack",
+      "type": "node-terminal",
+      "request": "launch",
+      "command": "vercel dev",
+      "console": "integratedTerminal",
+      "serverReadyAction": {
+        "pattern": "started server on .+, url: (https?://.+)",
+        "uriFormat": "%s",
+        "action": "debugWithChrome"
+      }
+    }
+  ]
+}
