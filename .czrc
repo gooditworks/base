@@ -1,7 +1,3 @@
-
-
-
-
 {
   "path": "cz-emoji",
   "skipQuestions": [
@@ -10,8 +6,20 @@
     "scope",
     "breaking"
   ],
-  "messages": {
-    "type": "Что коммитим?:"
+  "skip": [
+    "cz-emoji-1.0.0.json"
+  ],
+  "config": {
+    "cz-emoji": {
+      "types": [
+        {
+          "emoji": "🌟",
+          "code": ":star2:",
+          "description": "A new feature",
+          "name": "feature"
+        }
+      ]
+    }
   },
   "subjectLimit": 72,
   "allowCustomScopes": false,
