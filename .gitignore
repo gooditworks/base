@@ -4,3 +4,5 @@
 /.next
 /.env
 /build
+/.trunk/logs
+/.trunk/plugins

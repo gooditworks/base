@@ -2,7 +2,7 @@ name: Create PR with updates from base repository
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: "0 0 * * *"
 
 jobs:
   create_pr:

@@ -1,6 +1,7 @@
 # Env переменные
 
 Для работы приложения необходимо заполнить следующие env переменные (через командную строку или `.env` файл):
+
 - `SENTRY_DSN`: DSN URL от Sentry
 - `SENTRY_ENV`: окружение в Sentry (development/production/etc)
 - `LOGDNA_KEY`: ключ от logDNA
