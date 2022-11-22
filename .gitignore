@@ -2,5 +2,5 @@
 /.yarn
 .vercel
 /.next
-/.env
+.env
 /build
